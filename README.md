@@ -2,6 +2,10 @@
 
 > 🔖 **Learning Project** | Prompt Engineering Practice | Streamlit + OpenAI
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green)
+
 ---
 
 ## 📌 About
